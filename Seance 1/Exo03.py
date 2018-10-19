@@ -1,0 +1,5 @@
+print('Entrez votre nom.')
+nom=input()
+print('Entrez votre age.')
+age=input()
+print('Bonjour',nom,'tu as',age,'ans.')

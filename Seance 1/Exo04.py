@@ -1,0 +1,6 @@
+print('Ce programme permet de faire la moyenne de trois valeur choisi.')
+val1=int(input('Entrez votre première valeur : '))
+val2=int(input('Entrez votre deuxième valeur : '))
+val3=int(input('Entrez votre troisième valeur : '))
+moyenne=int((val1+val2+val3)/3)
+print('La moyenne de vos trois valeur est : ',moyenne)
